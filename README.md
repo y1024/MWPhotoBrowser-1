@@ -3,6 +3,14 @@
 
 ## Reason
 
+`EaseUI  3.5.1` 
+
+兼容环信 `pod 'EaseUI', :git => 'https://github.com/easemob/easeui-ios-hyphenate-cocoapods.git'`使用
+
+```
+pod 'SDWebImage', '~> 4.2.2'
+pod 'NIMKit/Full', '~> 2.7.1'
+```
 Beacuse My project need to this library and this project doesn't update for a long time. So I forked MWPhotoBrowser and update 3 library dependecy for using.
 
 **Update**
